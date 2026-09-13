@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "version": 2,
+  "plans": {
+    "monthly": { "visible": true },
+    "yearly": { "visible": true },
+    "lifetime": { "visible": false }
+  }
+}
